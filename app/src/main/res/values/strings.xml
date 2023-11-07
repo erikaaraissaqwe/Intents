@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="parameter">Parametro</string>
+    <string name="open_activity_explicit_intent">Open activity (explicit intent)</string>
+    <string name="implicit_intents">Implicit intents</string>
+    <string name="open_the_browser">Abra o navegador</string>
+    <string name="call_a_number">Ligue para</string>
+    <string name="open_the_dialer">Abra o discador</string>
+    <string name="pick_an_image">Escolha a imagem</string>
+    <string name="choose_a_viewer">Escolha o visualizador</string>
+    <string name="open_activity">Abrir a activity</string>
+    <string name="return_and_close">Retorne e feche</string>
+    <string name="permissao_requerida">Permissão requerida.</string>
+    <string name="qual_seu_navegador_favorito">Qual seu navegador favorito?</string>
+</resources>
